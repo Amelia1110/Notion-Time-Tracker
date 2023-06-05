@@ -40,8 +40,8 @@ export default function App() {
         </div>
         <hr className="border-black"/>
       </header>
-      <main>
-        <Page/>
+      <main className="h-screen">
+        <Page className="h-full"/>
       </main>
     </body>
   
